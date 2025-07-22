@@ -37,6 +37,7 @@
 
 ---
 
+<!--
 ### 📈 GitHub Stats
 
 ![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayesh-bansal&show_icons=true&theme=github_dark)
@@ -45,6 +46,7 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=jayesh-bansal&style=flat-square)
 
 ---
+-->
 
 ### 📂 Pinned Projects (Check Repos Section!)
 - 🔧 **FastAPI Automation** → GPT-integrated backend for task automation  
