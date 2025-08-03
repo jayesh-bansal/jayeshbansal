@@ -28,6 +28,7 @@
 ### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
